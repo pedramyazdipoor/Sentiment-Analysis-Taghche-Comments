@@ -5,5 +5,6 @@ The dataset is found [here](https://www.kaggle.com/datasets/saeedtqp/taaghche).\
 We define only 2 classes, positive for comment scores over 3 and negative for below this threshold.\
 We pre-processed comments by removing links, hashtags, digits, emojis and etc. We also normalized comments using Hazm library.
 
+## Results
 ![image](https://github.com/user-attachments/assets/2b403144-f9d2-40cc-9b06-645c302bc37f)
 
